@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Supply Pulse",
+  "description": "Strategic weather-based manufacturing advisory and regional supply optimization dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
